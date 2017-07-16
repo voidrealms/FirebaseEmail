@@ -1,1 +1,1 @@
-# Firebase Email Authentication
+# React Native Firebase Email Authentication
